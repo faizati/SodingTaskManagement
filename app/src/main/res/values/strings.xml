@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Soding Task Management</string>
+    <string name="title_activity_add_update_task">Update Task Details</string>
+    <string name="view_all_employees">View All Employees</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_view_all_tasks">All Tasks List</string>
+    <string name="task_remove_toast_message">Task removed successfully!</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="delete_task_btn">Delete</string>
+    <string name="update_task_btn">Update</string>
+    <string name="add_task_btn">Add Task</string>
+    <string name="task_name_hint">eg. Cycling at cyberjaya</string>
+    <string name="task_description_hint">Eg. Cycling at cyberjaya with friend on 23rd June 2017</string>
+    <string name="list_all_task_btn">List All Tasks</string>
+    <string name="edit_task_btn">Edit Task</string>
+    <string name="del_task_btn">Delete Task</string>
+    <string name="create_task_btn">Create Task</string>
+    <string name="task_mgmt_txt">Task Management</string>
+    <string name="edit_task_id_txt">enter task id</string>
+</resources>
